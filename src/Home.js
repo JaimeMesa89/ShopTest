@@ -1,8 +1,6 @@
 import ProductoList from "./ProductList";
 import useApi from "./useApi"
-//
-import CloudinaryImage from "./CloudinaryImage";
-import { AdvancedImage, responsive, placeholder } from "@cloudinary/react";
+
 import React from 'react';
 
 const Home = () => {
